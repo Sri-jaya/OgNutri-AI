@@ -1,2 +1,5 @@
-# OgNutri-AI
-OgNutri AI is a health platform offering personalized tools like dashboards, profile management, report uploads, medical support, and food recommendations, with AI-driven insights and secure data handling.
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
